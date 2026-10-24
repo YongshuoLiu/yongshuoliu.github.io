@@ -15,8 +15,8 @@ I was born in [Jining](https://en.wikipedia.org/wiki/Jining), which is roughly t
 ## Education
 Qingdao Agricultural University, B.E. Computer Science and Technology. Graduate in May 2023.
 ## Working Experience
-Ocean Universitu of China, Research Assistant. 2023-2024.
-Ocean University of China, 
+Ocean University of China, Research Assistant. 2023-2024.
+
 ## Hobbies
 
 <img style="float: left; padding-right: 7px;" src="/assets/img/about2.JPG" width = "25%" height="auto"/>
