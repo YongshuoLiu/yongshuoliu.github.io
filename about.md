@@ -14,6 +14,9 @@ redirect_from:
 I was born in [Jining](https://en.wikipedia.org/wiki/Jining), which is roughly the midpoint between Beijing and Shanghai. 
 ## Education
 Qingdao Agricultural University, B.E. Computer Science and Technology. Graduate in May 2023.
+## Working experiment
+Ocean Universitu of China, Research Assistant. 2023-2024.
+Ocean University of China, 
 ## Hobbies
 
 <img style="float: left; padding-right: 7px;" src="/assets/img/about2.JPG" width = "25%" height="auto"/>
